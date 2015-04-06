@@ -9,10 +9,12 @@
     "gulp-browserify": "^0.5.1",
     "gulp-concat": "^2.5.2",
     "react": "^0.13.1",
+    "react-router-component": "^0.24.4",
     "reactify": "^1.0.0"
   },
   "devDependencies": {
-    "es6-promise": "^2.0.1"
+    "es6-promise": "^2.0.1",
+    "react-async": "^2.1.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
